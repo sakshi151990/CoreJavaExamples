@@ -1,3 +1,0 @@
-English:30
-Maths:45
-Science:40
